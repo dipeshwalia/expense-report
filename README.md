@@ -2,6 +2,8 @@
 
 ## Getting Started
 
+Storing expense data to localStorage.
+
 Using local node server, run the development server:
 
 1. install dependencies
@@ -27,3 +29,7 @@ Using docker-compose setup, just do:
 ```bash
 docker-compose up
 ```
+
+## TODO
+
+1. Move Report component into separate page
